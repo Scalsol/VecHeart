@@ -1,0 +1,11 @@
+torchmetrics==1.9.0
+nibabel==5.4.2
+scikit-learn==1.7.2
+einops==0.8.2
+point_cloud_utils==0.34.0
+trimesh==4.12.2
+PyMCubes==0.1.6
+jupyter==1.1.1
+jupyter_client==7.4.9
+future==1.0.0
+tensorboard==2.21.0
