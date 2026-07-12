@@ -77,7 +77,7 @@ python tools/train.py vecheart.py
 
 ```bash
 # python tools/test.py <config> <checkpoint> --eval
-python tools/test.py vecheart.py work_dirs/vecheart/latest.pth
+python tools/test.py vecheart.py work_dirs/vecheart/latest.pth --eval
 ```
 
 ### Inference / Visualization
