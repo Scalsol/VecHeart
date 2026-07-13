@@ -8,6 +8,8 @@ This repo is an official implementation of the paper "[VecHeart: Holistic Four-C
 
 Accurate cardiac anatomy modeling requires handling the intricate interrelations among the heart's structures, and VecHeart is a unified framework for holistic reconstruction and generation of four-chamber cardiac anatomy.
 
+![result](assets/results.png)
+
 ## Installation
 
 Please refer to [INSTALL.md](INSTALL.md) for installation instructions.
